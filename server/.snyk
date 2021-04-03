@@ -24,3 +24,20 @@ patch:
         patched: '2021-04-03T01:40:12.155Z'
     - '@adonisjs/framework > winston > async > lodash':
         patched: '2021-04-03T01:40:12.155Z'
+  SNYK-JS-LODASH-450202:
+    - '@adonisjs/auth > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/bodyparser > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/fold > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/framework > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/lucid > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/framework > @adonisjs/middleware-base > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/framework > edge.js > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
+    - '@adonisjs/framework > winston > async > lodash':
+        patched: '2021-04-03T01:45:33.710Z'
