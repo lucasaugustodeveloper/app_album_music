@@ -28,7 +28,7 @@
     "@adonisjs/lucid": "^6.3.0",
     "mysql": "^2.16.0",
     "sqlite3": "^4.0.2",
-    "snyk": "^1.521.0"
+    "snyk": "^1.1183.0"
   },
   "devDependencies": {},
   "autoload": {
